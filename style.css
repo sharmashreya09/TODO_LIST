@@ -1,0 +1,100 @@
+h1{
+    text-align: center;
+    color:blueviolet;
+    text-decoration-line: underline;
+    
+}
+body{
+    margin:0px;
+    padding:0px;
+    background-color:palevioletred;
+}
+
+.btns
+{
+    
+    height:50px;
+    margin:8px;
+}
+
+.add
+{
+    width:200px;
+    height:40px;
+    margin:5px;
+    padding:4px;
+    background-color: greenyellow;
+    color:black;
+    font-weight: bold;
+    border:3px solid greenyellow;
+    border-radius:6px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.add:hover{
+    background-color: palevioletred;
+}
+
+.cnt
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left:5px;
+}
+h2{
+    margin-left:30px;
+}
+.task
+{
+    margin-left:30px;
+    width:700px;
+    height:40px;
+    font-size: 20px;
+}
+.todoul
+{
+    list-style: none;
+
+}
+li{
+    width:700px;
+     height:40px;
+     border:3px solid pink;
+     border-radius: 10px;
+     margin-left:152px;
+    margin-top:4px;
+    background-color: plum;
+}
+.mystyle{
+    position:absolute;
+    left:750px;
+    margin:9px;
+    height:25px;
+    width:25px;
+
+}
+.style
+{
+    position: absolute;
+    left:780px;
+    margin:9px;
+    height: 25px;
+    width:80px;
+    background-color: blue;
+    border:3px solid blue;
+    border-radius: 5px;
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+
+}
+.style:hover{
+    background-color: brown;
+}
+.img
+{
+    height:400px;
+    width:400px;
+    float:right;
+    margin:10px;
+}
